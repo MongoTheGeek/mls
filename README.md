@@ -9,8 +9,8 @@ This program uses the monte carlo method to determin the probabilties that a tea
 
 This program has the following known, but relatively unimportant deficits.
 -
-1.Within each group the earlier team in the group when tied will advance
-2.When wildcards are tied the first wildcard will go lower team
+1. Within each group the earlier team in the group when tied will advance
+2. When wildcards are tied the first wildcard will go lower team
 
 The results:
 
